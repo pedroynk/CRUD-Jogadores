@@ -40,9 +40,6 @@ Certifique-se de ter os seguintes softwares instalados em sua máquina:
 
 ## Acessando a Aplicação
 
-1. **Abra o navegador e acesse o seguinte URL**:http://localhost:8080/ProjetoModelo/jogador-form.jsp
-
-css
-Copiar código
+1. **Abra o navegador e acesse o seguinte URL**: http://localhost:8080/ProjetoModelo/jogador-form.jsp
 - Essa página é a interface de cadastro de jogadores.
 
