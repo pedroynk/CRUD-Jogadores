@@ -1,0 +1,5 @@
+INDEX VERSION 1.4+C:\Users\Pedro Lucas\Desktop\Estudos\Faculdade\Programacao-para-web\aula-09-10-24\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3113356590.index
+3368403867.index
+4079077890.index
+155242005.index
